@@ -86,3 +86,24 @@ h2 {
   color: #777;
   font-size: 12px;
 }
+
+
+.container section {
+  margin-bottom: 36px;
+}
+
+.container section h2 {
+  font-size: 19px;
+  margin-bottom: 12px;
+}
+
+.container section p {
+  color: #444;
+  line-height: 1.9;
+}
+
+.policy-date {
+  margin: 48px 0 32px;
+  color: #777;
+  font-size: 13px;
+}
